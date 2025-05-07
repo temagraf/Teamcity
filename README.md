@@ -221,7 +221,7 @@ public class WelcomerTest {
 
 ![image.jpg](https://github.com/temagraf/example-teamcity/blob/master/17.png)
 
-[Netology_ExampleTeamcity_Build.xml](https://github.com/temagraf/example-teamcity/blob/master/.teamcity/Netology_ExampleTeamcity/buildTypes/Netology_ExampleTeamcity_Build.xml)
+[Netology_ExampleTeamcity_Build.xml](https://github.com/temagraf/example-teamcity/blob/master/teamcity/Netology_ExampleTeamcity/buildTypes/Netology_ExampleTeamcity_Build.xml)
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
