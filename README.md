@@ -21,7 +21,7 @@
 ![image.jpg](https://github.com/temagraf/Teamcity/blob/main/1%20-%20agent.png) 
 
 5) Сделал fork [репозитория](https://github.com/temagraf/example-teamcity).
-6) Создал VM (2CPU4RAM) и запустите [playbook](https://github.com/temagraf/mnt-homeworks/tree/MNT-video/09-ci-05-teamcity/infrastructure)
+6) Создал VM (2CPU4RAM) и запустите [playbook](https://github.com/temagraf/Teamcity/blob/main/infrastructure)
 
 ![image.jpg](https://github.com/temagraf/Teamcity/blob/main/1%20Playbook.png) 
 ![image.jpg](https://github.com/temagraf/Teamcity/blob/main/2-Nexus.png) 
