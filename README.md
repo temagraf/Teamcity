@@ -137,12 +137,12 @@
 
 8) Мигрировал build configuration в репозиторий.
 
-![image.jpg](https://github.com/temagraf/Teamcity/blob/main/Снимок%20экрана%202025-05-02%20в%2005.08.15.png) 
+![image.jpg](https://github.com/temagraf/Teamcity/blob/main/Снимок%20экрана%202025-05-05%20в%2005.08.15.png) 
 
 
 9) Создал отдельную ветку feature/add_reply в репозитории:
 
-![image.jpg](https://github.com/temagraf/Teamcity/blob/main/Снимок%20экрана%202025-05-02%20в%2002.15.56.png)    
+![image.jpg](https://github.com/temagraf/Teamcity/blob/main/Снимок%20экрана%202025-05-05%20в%2002.15.56.png)    
 
 10) Написал новый метод для класса Welcomer: метод должен возвращать произвольную реплику, содержащую слово hunter.
  
